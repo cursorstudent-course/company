@@ -150,7 +150,7 @@
   },
   {
     "message_id": "M011",
-    "thread_id": "T-CAPEX",
+    "thread_id": "T-INVEST",
     "date": "2026-06-22T08:55:00+03:00",
     "from": "medvedev@severprom.example",
     "to": [
@@ -159,9 +159,9 @@
     "cc": [
       "sokolova@severprom.example"
     ],
-    "subject": "Повторно: CAPEX на линию",
+    "subject": "Повторно: инвестиции в линию",
     "importance": "high",
-    "path": "02-Письма/производство/2026-06-22_запрос_CAPEX.md"
+    "path": "02-Письма/производство/2026-06-22_запрос_инвестиций.md"
   },
   {
     "message_id": "M012",

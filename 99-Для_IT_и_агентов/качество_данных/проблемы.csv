@@ -1,7 +1,7 @@
-issue_id,date,severity,source_system,entity,detail,severity
-DQ-01,2026-07-01,missing_inn,CRM,C-ALFA,Клиент без ИНН,high
-DQ-02,2026-07-01,duplicate_customer,CRM,C-URAL/C-DUP1,Дубль карточки УралСтрой,medium
-DQ-03,2026-06-30,qty_mismatch,ERP/WMS,K12,erp 420 vs physical 380,high
-DQ-04,2026-07-02,stale_document,SharePoint,SALES-v1,valid_until близко/черновик ушёл в переписку,medium
-DQ-05,2026-06-20,orphan_won_gap,CRM/ERP,shipments,CRM won units narrative vs ERP shipped,high
-DQ-06,2026-07-01,empty_manager,CRM,P-82,иногда пустой manager в старых export,low
+код,дата,тип,система,объект,описание,важность
+DQ-01,2026-07-01,нет_ИНН,CRM,C-ALFA,Клиент без ИНН,высокая
+DQ-02,2026-07-01,дубль_клиента,CRM,C-URAL/C-DUP1,Дубль карточки УралСтрой,средняя
+DQ-03,2026-06-30,расхождение_остатка,ERP/склад,K12,ERP 420 против факта 380,высокая
+DQ-04,2026-07-02,устаревший_черновик,Портал,продажи_версия_1,Черновик ушёл в переписку,средняя
+DQ-05,2026-06-20,разрыв_отгрузок,CRM/ERP,июнь,Рассказ коммерции vs отгрузки ERP,высокая
+DQ-06,2026-07-01,пустой_менеджер,CRM,P-82,В старых выгрузках пустой менеджер,низкая

@@ -1,14 +1,14 @@
 ---
 document_id: ERP-STAT-2026-07
 title: Статус ERP июль
-department: pmo
+department: проекты
 owner: С. Морозов
 created: 2026-07-05
 valid_until: 2026-08-05
 version: 2
-classification: internal
-confidence: medium
-source_system: PMO
+classification: внутренний
+confidence: средняя
+source_system: Офис_проектов
 ---
 # ERP · статус 05.07.2026 · v2
 

@@ -1,20 +1,22 @@
 ---
 document_id: CF-004
-title: ERP green vs errors
-department: pmo
+title: Статус ERP и сбои
+department: проекты
 owner: А. Волков
 created: 2026-07-06
 valid_until: 2026-08-06
 version: 1
-classification: internal
-confidence: medium
-source_system: Manual
+classification: внутренний
+confidence: средняя
+source_system: Вручную
 ---
 
-# Conflict · ERP green vs errors
+# Расхождение · «зелёный» ERP и жалобы
 
-## PMO v2
-Статус зелёный, 85%.
+## Офис проектов
+[03-Отчеты/статус_ERP/версия_2/Статус_ERP.md](../03-Отчеты/статус_ERP/версия_2/Статус_ERP.md) — статус зелёный, 85%.
 
-## Логи / журнал
-Множественные ERROR sync, period close blocked, dual-run Excel.
+## Склад и учёт
+- [02-Письма/склад/2026-07-05_жалобы_на_ERP.md](../02-Письма/склад/2026-07-05_жалобы_на_ERP.md)
+- [05-ERP_и_склад/документация/двойной_учёт.md](../05-ERP_и_склад/документация/двойной_учёт.md)
+- ошибки интеграции (для IT): [05-ERP_и_склад/ошибки/журнал_ошибок_интеграции.log](../05-ERP_и_склад/ошибки/журнал_ошибок_интеграции.log)
