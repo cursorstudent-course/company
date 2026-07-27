@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-07-02",
+  "revenue_june_mln": 40.5,
+  "margin_pct": 15,
+  "dso_days": 44,
+  "open_pipeline_mln": 24.5,
+  "lost_deals": [
+    {
+      "order_id": "SO-1008",
+      "customer_id": "C-ALFA",
+      "reason": "discount_approval_timeout"
+    }
+  ]
+}

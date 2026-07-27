@@ -1,0 +1,4 @@
+2026-06-20 16:02:11 INFO  DEAL SO-1008 customer=C-ALFA status -> lost reason=discount_approval_timeout
+2026-06-28 12:00:00 INFO  EXPORT revenue_forecast_mln=45.0 report=SALES-2026-06-001 v1
+2026-07-01 09:30:00 INFO  EXPORT revenue_fact_mln=41.2 report=SALES-2026-06-001 v2
+2026-07-02 15:00:00 INFO  EXPORT revenue_fact_mln=40.5 report=SALES-2026-06-001 v3 audience=CEO

@@ -1,9 +1,5 @@
 .DS_Store
-Thumbs.db
-.idea/
-.vscode/
-*.swp
-*~
+*.pyc
+__pycache__/
 .env
-.env.*
-.DS_Store
+*.xlsx~

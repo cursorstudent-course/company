@@ -1,0 +1,5 @@
+код_поставщика,название,код_в_ERP,отсрочка_дней
+V-NORD,NordSupply AB,ERP-SUP-334,30
+V-GLOB,GlobalParts Ltd,ERP-SUP-118,45
+V-EURO,EuroComponents GmbH,ERP-SUP-902,30
+V-ALLY,ООО Альянс-Сервис,ERP-SUP-771,15

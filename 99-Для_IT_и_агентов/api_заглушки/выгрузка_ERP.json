@@ -1,0 +1,12 @@
+{
+  "as_of": "2026-07-05",
+  "project_status": "green",
+  "progress_pct": 85,
+  "open_critical_incidents_30d": 12,
+  "period_close_june": "blocked",
+  "products": {
+    "K12": {
+      "qty_erp": 420
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "as_of": "2026-06-30T20:00:00+03:00",
+  "warehouse_id": "WH-MAIN",
+  "product": "K12",
+  "stock": 200,
+  "reserved": 180,
+  "free": 20,
+  "note": "API snapshot mid-reconciliation; physical count file shows 380 total on hand"
+}

@@ -1,0 +1,3 @@
+2026-06-14 18:00:00 WARN  WMS vs ERP K12 delta starting
+2026-06-18 07:40:00 ERROR LINE_BUFFER empty product_id=K12
+2026-06-30 20:15:00 INFO  INVENTORY count K12 physical=380 erp=420

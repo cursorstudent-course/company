@@ -1,0 +1,4 @@
+2026-07-01 08:15:33 WARN  ERP_CLOSE period=2026-06 unbalanced_sku=K12 erp_qty=420 wms_qty=380
+2026-07-03 10:22:18 ERROR ERP_SYNC scrap_qty=40 not_posted work_order=WO-460
+2026-07-05 09:00:00 INFO  ERP_STATUS pmo_report=green progress=85
+2026-07-05 14:01:09 WARN  ERP_AUTH denied report=salary_register user=kozlov

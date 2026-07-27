@@ -1,0 +1,7 @@
+2026-06-14 09:12:01 ERROR ERP_SYNC module=inventory product_id=K12 supplier_id=334 timeout after 30s ref=PO-778-pre
+2026-06-18 07:55:11 WARN  ERP_SYNC module=inventory product_id=K12 qty_mismatch erp=40 physical_line=0
+2026-06-22 11:03:44 ERROR ERP_SYNC module=purchasing vendor_id=V-EURO action=create_PO blocked reason=no_active_contract
+2026-06-28 18:40:02 ERROR ERP_SYNC module=inventory product_id=K12 timeout after 30s attempt=3
+2026-07-01 08:15:33 WARN  ERP_CLOSE period=2026-06 warehouse=WH-MAIN unbalanced_sku=K12 erp_qty=420 wms_qty=380
+2026-07-03 10:22:18 ERROR ERP_SYNC module=mes_to_erp work_order=WO-460 scrap_qty=40 not_posted
+2026-07-05 14:01:09 WARN  ERP_AUTH user=kozlov@severprom.example denied report=salary_register

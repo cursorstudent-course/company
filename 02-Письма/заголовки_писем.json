@@ -1,0 +1,179 @@
+[
+  {
+    "message_id": "M001",
+    "thread_id": "T-LINE",
+    "date": "2026-06-18T09:12:00+03:00",
+    "from": "medvedev@severprom.example",
+    "to": [
+      "lebedeva@severprom.example",
+      "sokolova@severprom.example"
+    ],
+    "cc": [
+      "volkov@severprom.example"
+    ],
+    "subject": "Линия стоит — нет К-12",
+    "importance": "high",
+    "path": "02-Письма/производство/2026-06-18_линия_стоит.md"
+  },
+  {
+    "message_id": "M002",
+    "thread_id": "T-LINE",
+    "date": "2026-06-18T11:40:00+03:00",
+    "from": "lebedeva@severprom.example",
+    "to": [
+      "medvedev@severprom.example"
+    ],
+    "cc": [
+      "sokolova@severprom.example",
+      "orlov@severprom.example"
+    ],
+    "subject": "Re: Линия стоит — нет К-12",
+    "importance": "high",
+    "path": "02-Письма/логистика/2026-06-18_ответ_по_линии.md"
+  },
+  {
+    "message_id": "M003",
+    "thread_id": "T-STOCK",
+    "date": "2026-06-19T14:05:00+03:00",
+    "from": "sokolova@severprom.example",
+    "to": [
+      "lebedeva@severprom.example",
+      "medvedev@severprom.example"
+    ],
+    "cc": [
+      "volkov@severprom.example"
+    ],
+    "subject": "По запасу К-12 и оборотному капиталу",
+    "importance": "normal",
+    "path": "02-Письма/финансы/2026-06-19_запас_и_оборотный_капитал.md"
+  },
+  {
+    "message_id": "M004",
+    "thread_id": "T-JUNE",
+    "date": "2026-07-02T16:20:00+03:00",
+    "from": "orlov@severprom.example",
+    "to": [
+      "volkov@severprom.example"
+    ],
+    "cc": [
+      "sokolova@severprom.example"
+    ],
+    "subject": "Июнь: краткий статус коммерции",
+    "importance": "normal",
+    "path": "02-Письма/продажи/2026-07-02_июнь_статус.md"
+  },
+  {
+    "message_id": "M005",
+    "thread_id": "T-JUNE",
+    "date": "2026-07-03T10:05:00+03:00",
+    "from": "sokolova@severprom.example",
+    "to": [
+      "volkov@severprom.example"
+    ],
+    "cc": [
+      "orlov@severprom.example"
+    ],
+    "subject": "Re: Июнь — не согласны с 15%",
+    "importance": "high",
+    "path": "02-Письма/финансы/2026-07-03_не_согласны_с_маржой.md"
+  },
+  {
+    "message_id": "M006",
+    "thread_id": "T-ERP",
+    "date": "2026-07-05T12:00:00+03:00",
+    "from": "morozov@severprom.example",
+    "to": [
+      "volkov@severprom.example"
+    ],
+    "cc": [],
+    "subject": "ERP: статус зелёный 85%",
+    "importance": "normal",
+    "path": "02-Письма/проекты/2026-07-05_ERP_зелёный.md"
+  },
+  {
+    "message_id": "M007",
+    "thread_id": "T-ERP",
+    "date": "2026-07-05T15:30:00+03:00",
+    "from": "kozlov@severprom.example",
+    "to": [
+      "morozov@severprom.example",
+      "volkov@severprom.example"
+    ],
+    "cc": [
+      "medvedev@severprom.example"
+    ],
+    "subject": "Re: ERP — месяц не закрываем",
+    "importance": "high",
+    "path": "02-Письма/склад/2026-07-05_жалобы_на_ERP.md"
+  },
+  {
+    "message_id": "M008",
+    "thread_id": "T-TRUTH",
+    "date": "2026-07-06T09:00:00+03:00",
+    "from": "volkov@severprom.example",
+    "to": [
+      "orlov@severprom.example",
+      "sokolova@severprom.example",
+      "medvedev@severprom.example",
+      "morozov@severprom.example"
+    ],
+    "cc": [],
+    "subject": "Нужна одна страница правды к оперкомитету",
+    "importance": "high",
+    "path": "02-Письма/директор/2026-07-06_одна_правда.md"
+  },
+  {
+    "message_id": "M009",
+    "thread_id": "T-SID",
+    "date": "2026-06-25T19:48:00+03:00",
+    "from": "sidorov@severprom.example",
+    "to": [
+      "orlov@severprom.example"
+    ],
+    "cc": [],
+    "subject": "Как есть: июнь, Альфа, регламент скидок",
+    "importance": "normal",
+    "path": "02-Письма/продажи/2026-06-25_Сидоров_как_есть.md"
+  },
+  {
+    "message_id": "M010",
+    "thread_id": "T-ALLY",
+    "date": "2026-06-12T11:10:00+03:00",
+    "from": "belova@severprom.example",
+    "to": [
+      "sokolova@severprom.example"
+    ],
+    "cc": [],
+    "subject": "Оплата актов Альянс-Сервис",
+    "importance": "normal",
+    "path": "02-Письма/финансы/2026-06-12_оплата_Альянс_Сервис.md"
+  },
+  {
+    "message_id": "M011",
+    "thread_id": "T-CAPEX",
+    "date": "2026-06-22T08:55:00+03:00",
+    "from": "medvedev@severprom.example",
+    "to": [
+      "volkov@severprom.example"
+    ],
+    "cc": [
+      "sokolova@severprom.example"
+    ],
+    "subject": "Повторно: CAPEX на линию",
+    "importance": "high",
+    "path": "02-Письма/производство/2026-06-22_запрос_CAPEX.md"
+  },
+  {
+    "message_id": "M012",
+    "thread_id": "T-HR",
+    "date": "2026-07-04T17:02:00+03:00",
+    "from": "sidorov@severprom.example",
+    "to": [
+      "novikov@severprom.example"
+    ],
+    "cc": [],
+    "subject": "Неофициально: смотрю варианты",
+    "importance": "low",
+    "path": "02-Письма/продажи/2026-07-04_Сидоров_про_уход.md"
+  }
+]
