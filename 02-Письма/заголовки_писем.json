@@ -175,5 +175,20 @@
     "subject": "Неофициально: смотрю варианты",
     "importance": "low",
     "path": "02-Письма/продажи/2026-07-04_Сидоров_про_уход.md"
+  },
+  {
+    "message_id": "M013",
+    "thread_id": "T-SUPPLY",
+    "date": "2026-07-30T10:30:00+03:00",
+    "from": "info@promteh-omsk.example",
+    "to": [
+      "lebedeva@severprom.example"
+    ],
+    "cc": [
+      "orlov@severprom.example"
+    ],
+    "subject": "Коммерческое предложение на поставку промышленных комплектующих",
+    "importance": "normal",
+    "path": "02-Письма/поставщики/2026-07-30_ПромТех_КП_комплектующие.md"
   }
 ]
