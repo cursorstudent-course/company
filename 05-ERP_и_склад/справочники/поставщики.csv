@@ -1,5 +1,9 @@
-код_поставщика,название,код_в_ERP,отсрочка_дней
-V-NORD,NordSupply AB,ERP-SUP-334,30
-V-GLOB,GlobalParts Ltd,ERP-SUP-118,45
-V-EURO,EuroComponents GmbH,ERP-SUP-902,30
-V-ALLY,ООО Альянс-Сервис,ERP-SUP-771,15
+vendor_id,название,страна,критичный_для,статус_договора
+V-NORD,NordSupply,EU,K12,активен_риск
+V-EURO,EuroComponents,EU,K12,не_подписан
+V-PROM,ПромТех,RU,крепеж_сборка,черновик
+V-ALLI,Альянс-Сервис,RU,ERP_услуги,активен
+V-LOCAL,УралМетиз,RU,FAST-M4,активен
+V-CAB,КабельПром,RU,кабель,активен
+V-PCB,ПлатанЭл,RU,платы,активен
+V-PACK,УпакСервис,RU,упаковка,активен
