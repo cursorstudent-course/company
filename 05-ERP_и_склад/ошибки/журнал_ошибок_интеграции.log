@@ -1,0 +1,32 @@
+2026-06-14 09:12:01 ERROR ERP_SYNC module=inventory product_id=K12 supplier_id=334 timeout after 30s ref=PO-778-pre
+2026-06-18 07:55:11 WARN  ERP_SYNC module=inventory product_id=K12 qty_mismatch erp=40 physical_line=0
+2026-06-22 11:03:44 ERROR ERP_SYNC module=purchasing vendor_id=V-EURO action=create_PO blocked reason=no_active_contract
+2026-06-28 18:40:02 ERROR ERP_SYNC module=inventory product_id=K12 timeout after 30s attempt=3
+2026-07-01 08:15:33 WARN  ERP_CLOSE period=2026-06 warehouse=WH-MAIN unbalanced_sku=K12 erp_qty=420 wms_qty=380
+2026-07-03 10:22:18 ERROR ERP_SYNC module=mes_to_erp work_order=WO-460 scrap_qty=40 not_posted
+2026-07-05 14:01:09 WARN  ERP_AUTH user=kozlov@severprom.example denied report=salary_register
+2026-06-15 12:00:00 WARN  ERP_SYNC module=inventory product_id=FAST-M4 qty_mismatch erp=500 wms=480
+2026-06-16 09:10:00 ERROR ERP_SYNC module=crm_to_erp order=SO-012 status_desync crm=отгружен erp=создан
+2026-06-17 16:40:00 ERROR WMS aisle=GATE2 blocked_by_pallets sku=K12 fire_escape
+2026-06-19 08:00:00 WARN  ERP_SYNC PO-778 eta_slip days=18
+2026-06-20 11:11:11 ERROR MES line=K12 stop reason=no_component
+2026-06-21 13:00:00 WARN  DUAL_RUN excel_vs_erp delta_K12=40
+2026-06-23 10:00:00 ERROR ERP_SYNC module=purchasing vendor_id=V-NORD timeout
+2026-06-24 15:30:00 WARN  QUALITY hold lot=ASM-100-0702 reason=incoming_inspect
+2026-06-25 09:00:00 INFO  ERP_MIG oral_start vendor=Alliance no_change_order
+2026-06-26 17:00:00 ERROR ERP_SYNC module=inventory product_id=PCB-A timeout
+2026-06-27 12:12:12 WARN  HR overtime_without_order shift=B count=6
+2026-06-29 08:45:00 ERROR ERP_CLOSE cannot_close period=2026-06
+2026-06-30 19:00:00 WARN  AP invoice=АС-18 overdue days=5
+2026-07-02 07:30:00 WARN  HSE extinguisher_expired count=4 wh=WH-MAIN
+2026-07-04 11:00:00 ERROR LOGISTICS shipment_without_full_docs so=SO-019
+2026-07-06 09:20:00 WARN  ERP_STATUS pmo=green warehouse=disagree
+2026-07-07 14:00:00 ERROR CRM AR client=ООО Эта overdue_days=95
+2026-07-08 10:00:00 WARN  TAX payment_shift vat_letter
+2026-07-09 16:00:00 ERROR LOGISTICS shipment_without_full_docs so=SO-028
+2026-07-10 12:00:00 WARN  QUALITY claim=ТехноПарк sku=ASM-100
+2026-07-11 08:00:00 ERROR AP block payment=АС-19 reason=act_not_approved
+2026-07-12 18:00:00 WARN  LEGAL claim=УралСтрой penalties_pending
+2026-07-13 09:00:00 WARN  VENDOR Alliance suspend_engineers risk
+2026-07-14 11:00:00 ERROR AR aging gt60_share rising
+2026-07-15 07:50:00 WARN  HSE fire_escape still_blocked gate2
